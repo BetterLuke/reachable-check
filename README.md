@@ -20,7 +20,7 @@ cd server && yarn install && node index.js
 cd clientUI && yarn install && yarn run start
 ```
 
-3. Open the Chrome to browse this page `http://localhost"3000`
+3. Open the Chrome to browse this page `http://localhost:3000`
 
 4. Open the browser network debugging window
 
